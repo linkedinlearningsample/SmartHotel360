@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/LearningDevOps123/GitHub%20Demo/_apis/build/status/linkedinlearningsample.SmartHotel360?branchName=master)](https://dev.azure.com/LearningDevOps123/GitHub%20Demo/_build/latest?definitionId=15&branchName=master)
 
 # SmartHotel360 Reference Apps
 We are happy to announce the release of SmartHotel360. This release intends to share a simplified version of SmartHotel360 reference sample apps used at Connect(); 2017 Keynotes.
